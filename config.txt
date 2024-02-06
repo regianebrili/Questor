@@ -1,0 +1,4 @@
+HostName=localhost
+Database=taif_company
+User_Name=root
+Password=15200601
